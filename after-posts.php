@@ -46,7 +46,7 @@
 					<li><a href="after-show.php">AFTER SHOCK<br>Friday Aug 23rd 2017</a></li>
 					<li class="active"><a href="after-show.php#maps">Maps</a></li>
 					<li><a href="after-show.php#sched">Schedule</a></li>
-					<li><a href="after-posts.php"> Posts </a></li>
+					<li><a href="register.php"> Posts </a></li>
 					<li><a href="after-show.php#offers"> Offers </a></li>
 				</ul>
 			</div>
