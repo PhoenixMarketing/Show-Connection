@@ -74,7 +74,6 @@ include('include/classes/Post.php');
 
             if((document.body.scrollHeight == (document.documentElement.scrollTop || document.body.scrollTop) + window.innerHeight) && noMorePosts == 'false') {
               $('#loading').show();
-              alert("hello");
 
                 var ajaxReq = $.ajax({
                 url: "include/form handler/ajax_load_post.php",
